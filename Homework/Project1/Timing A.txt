@@ -1,0 +1,39 @@
+Time to read from file (in ns): 5012000.0
+Time of shuffle (in ns): 1745500.0
+Time to write to file (in ns): 1.02484E7
+
+Time to read from file (in ns): 7200100.0
+Time of shuffle (in ns): 1147900.0
+Time to write to file (in ns): 1.08817E7
+
+Time to read from file (in ns): 5285400.0
+Time of shuffle (in ns): 1518900.0
+Time to write to file (in ns): 1.03447E7
+
+Time to read from file (in ns): 1.21299E7
+Time of shuffle (in ns): 2376200.0
+Time to write to file (in ns): 1.32449E7
+
+Time to read from file (in ns): 7412000.0
+Time of shuffle (in ns): 1658500.0
+Time to write to file (in ns): 1.1166E7
+
+Time to read from file (in ns): 5169900.0
+Time of shuffle (in ns): 2606800.0
+Time to write to file (in ns): 1.06927E7
+
+Time to read from file (in ns): 9309500.0
+Time of shuffle (in ns): 1874600.0
+Time to write to file (in ns): 1.00733E7
+
+Time to read from file (in ns): 6052400.0
+Time of shuffle (in ns): 1042300.0
+Time to write to file (in ns): 8415600.0
+
+Time to read from file (in ns): 8802400.0
+Time of shuffle (in ns): 1526800.0
+Time to write to file (in ns): 1.12886E7
+
+Time to read from file (in ns): 5158000.0
+Time of shuffle (in ns): 1724100.0
+Time to write to file (in ns): 1.21951E7

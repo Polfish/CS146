@@ -1,0 +1,29 @@
+Time to create list (in ns): 524800.0
+Time to delete one node (in ns): 3400.0
+Time to find winner (in ns): 800.0
+Time to create list (in ns): 1500.0
+Time to find winner (in ns): 500.0
+Time to create list (in ns): 8000.0
+Time to delete one node (in ns): 1200.0
+Time to find winner (in ns): 2900.0
+Time to create list (in ns): 4500.0
+Time to delete one node (in ns): 2200.0
+Time to find winner (in ns): 1300.0
+Time to create list (in ns): 4300.0
+Time to delete one node (in ns): 1100.0
+Time to find winner (in ns): 700.0
+
+Time to create list (in ns): 531800.0
+Time to delete one node (in ns): 2600.0
+Time to find winner (in ns): 600.0
+Time to create list (in ns): 1100.0
+Time to find winner (in ns): 300.0
+Time to create list (in ns): 2000.0
+Time to delete one node (in ns): 900.0
+Time to find winner (in ns): 2400.0
+Time to create list (in ns): 3700.0
+Time to delete one node (in ns): 2400.0
+Time to find winner (in ns): 800.0
+Time to create list (in ns): 2400.0
+Time to delete one node (in ns): 1100.0
+Time to find winner (in ns): 800.0
